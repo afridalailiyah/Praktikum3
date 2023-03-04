@@ -1,0 +1,14 @@
+body {
+    font-family:'Segoe UI';
+    background: linear-gradient(#e6ce5b, #4eb3d2);
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+}
